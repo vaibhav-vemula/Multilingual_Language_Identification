@@ -20,8 +20,6 @@ Languages in the dataset -
 14. Tamil
 15. Danish
 16. Kannada
-17. Greek
-
 
 ## Examples - 
 
